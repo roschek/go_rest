@@ -37,8 +37,8 @@ type Logger struct {
 	*logrus.Entry
 }
 
-func GetLogger() Logger {
-	return Logger{Entry: e}
+func GetLogger() *Logger {
+	return &Logger{Entry: e}
 }
 
 func init() {
