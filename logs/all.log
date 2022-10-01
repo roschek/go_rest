@@ -1,0 +1,5 @@
+time="2022-10-01T22:55:04+03:00" level=info msg="CREATE ROUTER" func="main.main()" file="app.go:16"
+time="2022-10-01T22:55:04+03:00" level=info msg="register user handler" func="main.main()" file="app.go:19"
+time="2022-10-01T23:00:03+03:00" level=info msg="CREATE ROUTER" func="main.main()" file="app.go:16"
+time="2022-10-01T23:00:03+03:00" level=info msg="register user handler" func="main.main()" file="app.go:19"
+time="2022-10-01T23:00:03+03:00" level=info msg="server is listaning on port 0.0.0.0:1234" func="main.start()" file="app.go:38"
